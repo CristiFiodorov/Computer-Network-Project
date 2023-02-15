@@ -1,3 +1,3 @@
 # CastDoc
 
-Check **Documentation.pdf** for more details about the project.
+Check **DocumentatieCastDoc.pdf** for more details about the project.
